@@ -5,7 +5,7 @@ This repository documents the design process of a robotic arm joint using SolidW
 ## Initial Design: U-Shape Extrusion
 
 <p align="center">
-  <img src="Screenshot2025-08-13163910.png" alt="U-Shape Extrusion" width="600"/>
+  <img src="1.png" alt="U-Shape Extrusion" width="600"/>
 </p>
 <p align="center"><b>Figure 1: U-Shape Extrusion</b></p>
 
@@ -14,7 +14,7 @@ Figure 1 illustrates the initial step of the design process where a U-shaped ske
 ## Circular Extrusion for Joint Mechanism
 
 <p align="center">
-  <img src="Screenshot2025-08-13190935.png" alt="Circular Extrusion" width="600"/>
+  <img src="2.png" alt="Circular Extrusion" width="600"/>
 </p>
 <p align="center"><b>Figure 2: Circular Extrusion</b></p>
 
@@ -23,7 +23,7 @@ Figure 2 demonstrates the creation of a new sketch on the top surface of the U-s
 ## Applying Fillets for Smoothness and Strength
 
 <p align="center">
-  <img src="Screenshot2025-08-13191405.png" alt="Fillets Applied" width="600"/>
+  <img src="3.png" alt="Fillets Applied" width="600"/>
 </p>
 <p align="center"><b>Figure 3: Fillets Applied</b></p>
 
@@ -32,7 +32,7 @@ Figure 3 shows the application of fillets to various edges of the U-shaped struc
 ## Defining a Hole for Pin Connection
 
 <p align="center">
-  <img src="Screenshot2025-08-13191727.png" alt="Hole Sketch with Dimensions" width="600"/>
+  <img src="4.png" alt="Hole Sketch with Dimensions" width="600"/>
 </p>
 <p align="center"><b>Figure 4: Hole Sketch with Dimensions</b></p>
 
@@ -41,7 +41,7 @@ Figure 4 illustrates the creation of a new sketch on one of the U-shaped arms. A
 ## Creating the Pin Holes with Extruded Cut
 
 <p align="center">
-  <img src="Screenshot2025-08-13191921.png" alt="Extruded Cut" width="600"/>
+  <img src="5.png" alt="Extruded Cut" width="600"/>
 </p>
 <p align="center"><b>Figure 5: Extruded Cut Operation</b></p>
 
@@ -50,12 +50,12 @@ Figure 5 shows the result of performing an "Extruded Cut" operation based on the
 ## Creating Additional Mounting Holes
 
 <p align="center">
-  <img src="Screenshot2025-08-13193214.png" alt="Four Holes - View 1" width="600"/>
+  <img src="6.png" alt="Four Holes - View 1" width="600"/>
 </p>
 <p align="center"><b>Figure 6: Four Holes - View 1</b></p>
 
 <p align="center">
-  <img src="Screenshot2025-08-13193252.png" alt="Four Holes - View 2" width="600"/>
+  <img src="7.png" alt="Four Holes - View 2" width="600"/>
 </p>
 <p align="center"><b>Figure 7: Four Holes - View 2</b></p>
 
@@ -64,7 +64,7 @@ Figures 6 and 7 display the robotic arm joint after the creation and removal of 
 ## Applying an Appearance (Green Color)
 
 <p align="center">
-  <img src="Screenshot2025-08-13193708.png" alt="Green Appearance" width="600"/>
+  <img src="8.png" alt="Green Appearance" width="600"/>
 </p>
 <p align="center"><b>Figure 8: Green Appearance Applied</b></p>
 
